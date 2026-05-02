@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MyApp());
 }
-
+//day 14 and day 7 q&a
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
