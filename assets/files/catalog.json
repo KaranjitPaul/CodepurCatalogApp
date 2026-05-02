@@ -1,7 +1,7 @@
 {
     "products": [
         {
-            "id": "Codepur001",
+            "id": 1,
             "name": "iPhone 12 Pro",
             "desc": "Apple iPhone 12th generation",
             "price": 999,
@@ -9,7 +9,7 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc"
         },
         {
-            "id": "Codepur002",
+            "id": 2,
             "name": "Pixel 5",
             "desc": "Google Pixel phone 5th generation",
             "price": 699,
@@ -17,7 +17,7 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0JhwLvm_uLDLc-la7hK9WyVpe9naJFcebKfhcICiq2KtvXDePNAU_9QO06LPcQ0K0fLByc7m&usqp=CAc"
         },
         {
-            "id": "Codepur003",
+            "id": 3,
             "name": "M1 Macbook Air",
             "desc": "Apple Macbook air with apple silicon",
             "price": 1099,
@@ -25,7 +25,7 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
         },
         {
-            "id": "Codepur004",
+            "id": 4,
             "name": "Playstation 5",
             "desc": "Sony Playstation 5th generation",
             "price": 500,
@@ -33,7 +33,7 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
         },
         {
-            "id": "Codepur005",
+            "id": 5,
             "name": "Airpods Pro",
             "desc": "Apple Aipods Pro 1st generation",
             "price": 200,
@@ -41,7 +41,7 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROEs084z65psoo06zYl5R0tUzywOVKVQZzmzqCj3PDP1vVJTWv3gGwGMFENSy4qV4n7sEQjE&usqp=CAc"
         },
         {
-            "id": "Codepur006",
+            "id": 6,
             "name": "iPad Pro",
             "desc": "Apple iPad Pro 2020 edition",
             "price": 799,
@@ -49,7 +49,7 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc"
         },
         {
-            "id": "Codepur007",
+            "id": 7,
             "name": "Galaxy S21 Ultra",
             "desc": "Samsung Galaxy S21 Ultra 2021 edition",
             "price": 1299,
@@ -57,7 +57,7 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_PZcc0wicVYR992s5QCIDLYy8t-z-9kibTUdWZBN2sd86aaqdAJfhvxAwZNWV9wfdzDikpr1&usqp=CAc"
         },
         {
-            "id": "Codepur008",
+            "id": 8,
             "name": "Galaxy S21",
             "desc": "Samsung Galaxy S21 2021 edition",
             "price": 899,

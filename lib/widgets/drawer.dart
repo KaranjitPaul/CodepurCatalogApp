@@ -7,7 +7,7 @@ class MyDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final imageUrl =
-        "https://avatars.githubusercontent.com/u/12619420?v=4&s=400";
+      "https://avatars.githubusercontent.com/u/12619420?v=4&s=400";
 
     return Drawer(
       child: Container(
