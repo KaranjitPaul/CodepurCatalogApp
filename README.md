@@ -1,17 +1,46 @@
-# app_new
+Catalogue App
 
-A new Flutter project.
+A catalogue-based mobile application developed using Flutter and Dart as part of my Flutter learning journey. The app focuses on displaying products or items in an organized and user-friendly catalogue interface.
 
-## Getting Started
+🛠️ Technologies Used
 
-This project is a starting point for a Flutter application.
+* Flutter
+* Dart
 
-A few resources to get you started if this is your first Flutter project:
+📱 Project Overview
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+This project demonstrates the development of a catalogue-style mobile application using Flutter. Users can browse items, view their details, and navigate through different sections of the catalogue.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project focuses on practicing Flutter’s UI development, layouts, navigation, reusable widgets, and responsive design.
+
+✨ Features
+
+* Browse catalogue items
+* Product/item listing
+* Product details
+* Category-based organization
+* Responsive user interface
+* Navigation between screens
+* Reusable Flutter widgets
+* Clean and simple UI
+
+🚀 Getting Started
+
+Clone the Repository
+
+git clone <repository-url>
+cd <project-folder>
+
+Install Dependencies
+
+flutter pub get
+
+Run the Application
+
+flutter run
+
+Make sure Flutter is installed and an emulator or physical device is connected.
+
+🎯 Purpose
+
+This project was created to gain practical experience with Flutter application development and understand how catalogue-based mobile applications can be designed and structured using a single codebase.
